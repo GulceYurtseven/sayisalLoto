@@ -1,1 +1,2 @@
 # sayısalLoto
+school project
